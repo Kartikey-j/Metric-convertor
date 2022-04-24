@@ -1,0 +1,62 @@
+body {
+    position: absolute;
+width: 415.91px;
+height: 404px;
+left: 110px;
+top: 110px;
+border: 1px solid black;
+text-align: center;
+border-radius: 4px;
+margin-bottom: 0px;
+padding-bottom: 0px;
+}
+
+header > div {
+    padding-bottom: 40px;
+}
+
+div.gradient-box{
+    background-image: linear-gradient(
+  45deg,
+  hsl(240deg 56% 67%) 0%,
+  hsl(254deg 60% 66%) 3%,
+  hsl(269deg 64% 65%) 7%,
+  hsl(284deg 67% 63%) 12%,
+  hsl(298deg 70% 62%) 19%,
+  hsl(313deg 74% 60%) 28%,
+  hsl(328deg 78% 59%) 39%,
+  hsl(342deg 82% 57%) 55%,
+  hsl(357deg 85% 56%) 71%,
+  hsl(11deg 89% 55%) 83%,
+  hsl(26deg 92% 53%) 91%,
+  hsl(40deg 96% 52%) 96%,
+  hsl(55deg 100% 51%) 100%
+);
+border-radius: 4px;
+border-bottom-left-radius: 2px;
+border-bottom-right-radius: 2px;
+margin-bottom: 0px;
+
+}
+div> h3{
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding-top: 25px;
+}
+
+div > h1.value {
+    margin-top: 0% ;
+    margin-bottom: 0px;
+    padding-bottom: 15px;
+    padding-top: 40px;
+}
+
+div.lower-box{
+    background-color: rgb(191, 191, 191);
+    border-radius: 4px;
+}
+div.results {
+    padding-top: 20px;
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+}
